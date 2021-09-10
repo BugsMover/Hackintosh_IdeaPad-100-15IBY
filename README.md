@@ -1,2 +1,2 @@
 # Hackintosh
-IdeaPad 100-15IBY  macOS 10.15.7 efi
+Lenovo IdeaPad 100-15IBY  macOS 10.15.7 efi
